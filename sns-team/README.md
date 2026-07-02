@@ -19,3 +19,4 @@
 ## 今回の成果物
 
 - [posts/2026-07-02-vol1-tanabata-yukata.md](posts/2026-07-02-vol1-tanabata-yukata.md)
+- [posts/2026-07-02-event-kickoff-kunoichi-assassin.md](posts/2026-07-02-event-kickoff-kunoichi-assassin.md)（1,000フォロワー達成記念イベント キックオフ）
