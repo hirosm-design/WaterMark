@@ -29,16 +29,17 @@ exposed nipples, exposed genitals, sex, sexual intercourse, nsfw explicit,
 watermark, signature, artist name, deformed hands, extra fingers, low quality
 ```
 
-### パターンB：堕ちた騎士
+### パターンB：堕ちた騎士（女性版）
 ```
 masterpiece, best quality, highly detailed dark fantasy illustration,
-1boy, original character, adult man, 20s-30s,
-fallen knight turned prisoner, black and white striped prison uniform combined with broken knight armor pieces,
-orange prisoner sash, restraint-style leather straps across the chest, engraved number plate,
-heavy iron shackles on wrists and ankles connected by a chain, cracked stone dungeon,
-rusted prison bars, cold blue moonlight through a small barred window,
-scarred face, tired but unbroken expression, broken sword embedded in the ground nearby,
-dark gothic atmosphere, muted color palette with cold rim lighting,
+1girl, original character, adult woman, 20s, beautiful elegant face,
+fallen knight turned prisoner, black and white striped prison uniform combined with broken knight armor pieces
+(cracked breastplate, single pauldron), orange prisoner sash, restraint-style leather straps across the chest,
+engraved number plate hanging from a chain, heavy iron shackles on wrists connected by a chain,
+cracked stone dungeon, rusted prison bars, cold blue moonlight through a small barred window,
+long disheveled hair, faint scar across one eyebrow, tired but unbroken proud expression, sharp determined eyes,
+broken sword embedded in the ground nearby, dark gothic atmosphere,
+muted color palette with cold rim lighting, dramatic chiaroscuro,
 dark fantasy concept art, illustrious style, official art
 
 Negative prompt:
