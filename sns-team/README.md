@@ -20,3 +20,4 @@
 
 - [posts/2026-07-02-vol1-tanabata-yukata.md](posts/2026-07-02-vol1-tanabata-yukata.md)
 - [posts/2026-07-02-event-kickoff-kunoichi-assassin.md](posts/2026-07-02-event-kickoff-kunoichi-assassin.md)（1,000フォロワー達成記念イベント キックオフ）
+- [posts/2026-07-04-bijinga-natsu-genshoku-reijin-vol1.md](posts/2026-07-04-bijinga-natsu-genshoku-reijin-vol1.md)（美人画企画「AI夏幻極彩色の麗人」Vol.1）
