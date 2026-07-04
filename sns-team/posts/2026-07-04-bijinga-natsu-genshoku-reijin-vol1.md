@@ -5,7 +5,8 @@
   夏はどの時間帯も暑くて眩しく、世界の全てが色鮮やかに見える季節。
   水面の煌めき、滲む熱、揺れる光——そんな"幻のような一瞬"を極彩色の美人画として描く。
 - ターゲット層: 25〜50歳のAIイラストレーター・クリエーター
-- センシティブ度: 際どい構図＋際どい衣装（[../CONTENT_POLICY.md](../CONTENT_POLICY.md) 準拠、性的描写なし）
+- センシティブ度: 控えめ（露出は抑え、衣装はきちんと着用。艶っぽさは仕草・表情・雰囲気で表現する。
+  [../CONTENT_POLICY.md](../CONTENT_POLICY.md) の上限内で、今回はより控えめ寄りに調整）
 - 登場キャラクター: 架空のオリジナルキャラクター「彩（Aya）」（実在人物ではない）
 
 ---
@@ -18,11 +19,12 @@ masterpiece, best quality, ultra detailed bijinga-style illustration,
 1girl, original character, adult, mature female, 20s, adult body,
 japanese beauty portrait (bijinga), nihonga and ukiyo-e inspired style,
 psychedelic vivid gradient colors, iridescent color palette,
-thin summer yukata clinging slightly to skin, damp fabric, bare shoulder, loosely tied obi,
+elegant summer yukata neatly worn, tied obi, modest neckline,
 standing in shallow water, goldfish (kingyo) swimming around her feet, rippling water reflections,
 sunlight glimmering on water surface, heat haze shimmer in the air,
+strands of hair softly clinging to her neck, gentle inviting smile, graceful curve of the body,
 dreamlike glowing light, ornate decorative background, gold leaf accents,
-fine linework, elegant pose, serene half-lidded gaze,
+fine linework, elegant pose, serene half-lidded gaze, subtle allure through expression,
 illustrious style, official art, extremely detailed
 
 Negative prompt:
@@ -37,11 +39,11 @@ masterpiece, best quality, ultra detailed bijinga-style illustration,
 1girl, original character, adult, mature female, 20s, adult body,
 japanese beauty portrait (bijinga), nihonga inspired style,
 extremely vivid saturated colors, kaleidoscopic color gradient background,
-summer kimono with sleeve slipping off shoulder, hadanugi style, translucent fabric detail,
+elegant summer kimono neatly worn, modest neckline, fan (uchiwa) held near the lips,
 standing in a garden after uchimizu (water sprinkling), wet stone path reflecting light,
 heat shimmer distorting the background, morning glory (asagoa) flowers, wind chime (furin),
-soft dreamy glow, cicada sound implied through atmosphere, fan (uchiwa) in hand,
-elegant serene expression, fine linework, gold leaf accents,
+soft dreamy glow, cicada sound implied through atmosphere, sidelong glance over the fan, gentle smile,
+elegant serene expression, subtle allure through pose and gaze, fine linework, gold leaf accents,
 illustrious style, official art, extremely detailed
 
 Negative prompt:
@@ -58,9 +60,9 @@ watermark, signature, artist name, deformed hands, extra fingers, low quality
 ```
 professional fine-art photograph, fictional AI-generated model "Aya", not based on any real person,
 adult woman, mid-20s, elegant japanese features, serene half-lidded gaze,
-thin summer yukata, damp fabric clinging slightly to skin, bare shoulder, tasteful and alluring but fully clothed,
-standing in shallow water with goldfish swimming around her feet,
-sunlight glimmering on rippling water surface, vivid saturated color grading, dreamlike atmosphere,
+elegant summer yukata neatly worn, modest neckline, tasteful and alluring through expression rather than exposure,
+standing in shallow water with goldfish swimming around her feet, strands of hair softly clinging to her neck,
+gentle inviting smile, sunlight glimmering on rippling water surface, vivid saturated color grading, dreamlike atmosphere,
 shallow depth of field, shot on 85mm lens, golden hour backlighting,
 photorealistic, high detail skin texture, editorial fine-art quality, 8k
 
@@ -75,7 +77,7 @@ deformed, disfigured, low quality, watermark
 ```
 professional fine-art photograph, fictional AI-generated model "Aya", not based on any real person,
 adult woman, mid-20s, elegant japanese features, calm confident expression,
-summer kimono with sleeve slipping off one shoulder, translucent fabric detail, tasteful and alluring but fully clothed,
+elegant summer kimono neatly worn, modest neckline, fan (uchiwa) held near the lips, sidelong glance, gentle smile,
 standing in a garden just after water sprinkling (uchimizu), wet stone path reflecting vivid light,
 heat haze shimmer softly distorting the background, morning glory flowers and wind chime in frame,
 hyper-saturated color grading, dreamlike glow, shallow depth of field, shot on 50mm lens,
